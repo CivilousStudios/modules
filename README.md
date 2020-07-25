@@ -1,2 +1,2 @@
-# modules
-Things that can become open-source in the future if we ever want them to
+# Civilous SCPF Modules
+Created by CoderCrazy for Civilous' SCPF. No other groups/foundations have permission to use these modules unless told otherwise by Civilous or CoderCrazy.
